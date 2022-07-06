@@ -29,7 +29,7 @@ section{
     padding: 50px;
     background-color: beige;
     margin-right: 10px;
-    margin-left: 10px;
+    margin-left: 200px;
     text-align: justify;
     background-image: url(icons/food.png);
     background-repeat: no-repeat;
@@ -46,7 +46,7 @@ section{
 #third{
     background-color: rgba(255, 127, 80, 0.305);
     padding: 50px;
-    margin-right: 10px;
+    margin-right: 200px;
     text-align: justify;
     background-image: url(icons/Frame-1.png);
     background-repeat: no-repeat;
@@ -206,6 +206,6 @@ section{
 
 #humble{
     color: white;
-    padding-top: 50px;
+    margin-top: 50px;
     font-size: 17px;
 }
