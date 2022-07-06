@@ -183,6 +183,12 @@ section{
     background-color: beige;
     margin:7px
 }
+.taka200{
+    padding: 30px;
+    background-color: beige;
+    margin:7px;
+    border: 3px solid rgba(254, 0, 0, 0.652);
+}
 #donate-button{
     text-decoration: none;
     background-image: linear-gradient(red,tomato);
@@ -199,4 +205,6 @@ section{
 
 #humble{
     color: white;
+    padding-top: 50px;
+    font-size: 17px;
 }
