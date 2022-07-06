@@ -1,0 +1,202 @@
+body{
+    font-family: 'Poppins', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+}
+#Upper-call{
+    height: 500px;
+    width: 200%;
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+    position: relative;
+    background-position: center;
+    background-size: 100% 150%;
+}
+section{
+    display: flex;
+}
+
+.left{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+
+}
+#donate-plan{
+    text-align: center;
+}
+#first{
+    padding: 50px;
+    background-color: beige;
+    margin-right: 10px;
+    margin-left: 10px;
+    text-align: justify;
+    background-image: url(icons/food.png);
+    background-repeat: no-repeat;
+    
+}
+#second{
+    background-color: rgba(0, 0, 255, 0.259);
+    padding: 50px;
+    margin-right: 10px;
+    text-align: justify;
+    background-image: url(icons/shelter.png);
+    background-repeat: no-repeat;
+}
+#third{
+    background-color: rgba(255, 127, 80, 0.305);
+    padding: 50px;
+    margin-right: 10px;
+    text-align: justify;
+    background-image: url(icons/Frame-1.png);
+    background-repeat: no-repeat;
+}
+
+#first1{
+    padding: 50px;
+    background-color: rgba(220, 245, 225, 0.926);
+    margin-right: 10px;
+    margin-left: 10px;
+    text-align: left;
+    margin-top: 60px;
+ }
+#second2{
+    background-color: rgba(0, 0, 255, 0.09);
+    padding: 50px;
+    margin-right: 10px;
+    text-align: left;
+    margin-top: 60px;
+    }
+#third3{
+    background-color: rgba(192, 49, 175, 0.168);
+    padding: 50px;
+    margin-right: 10px;
+    text-align: left;
+    margin-top: 60px;
+   }
+.form{
+    width: 450px;
+    padding-left: 450px;
+    box-shadow: 0px 0px 0px;
+    text-align: center;
+}
+#open-air{
+    text-align: right;
+    margin-left: 300px;
+}
+#open-air2{
+    text-align: left;
+    margin-left: 0px;
+}
+.form .ammount{
+    height: 40px;
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid silver;
+    text-align: center;
+}
+.bottom{
+    text-align: center;
+}
+.donate-plan{
+    text-align: center;
+
+}
+.heading{
+     text-align: center;
+    color: azure;
+    margin-top: 200px;
+    font-size: 50px;
+}
+.mother-teresa{
+    color: azure;
+    margin-bottom: 40px;
+}
+section{
+    display: flex;
+}
+
+.ammount{
+    margin-top: 0%;
+}
+#subscribe{
+    background-color: rgba(255, 127, 80, 0.268);
+    padding: 50px;
+    margin-bottom: 40px;
+    margin-left: 360px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 60px;
+    }
+.email-class{
+    height: 30px;
+    width: 250px;
+    border: none;
+    border-bottom: 2px solid silver;
+    text-align: center;
+}
+#helping{
+    height: 300px;
+    width: 350px;
+}
+.upper-banner{
+    margin-top: 50px;
+}
+.second-pic{
+    margin-top: 50px;
+}
+
+.half-width{
+    width: 200%;
+    padding-left: 7%;
+    text-align: right;
+    margin-right: 20px;
+}
+.half-width2{
+    width: 200%;
+    padding-left: 7px;
+    text-align: left;
+    margin-left: 10px;
+}
+.test-image{
+    margin-right: 200px;
+}
+.test-image2{
+    margin-left: 200px;
+}
+.half-width img{
+    width:80%
+}
+#update{
+    text-align: center;
+    margin-top: 70px;
+}
+.footer{
+    color: red;
+    background-color: black;
+    padding: 30px;
+    text-align: center;
+    text-decoration: solid;
+    }
+.taka{
+    padding: 30px;
+    background-color: beige;
+    margin:7px
+}
+#donate-button{
+    text-decoration: none;
+    background-image: linear-gradient(red,tomato);
+    font-weight: 700;
+    padding: 10px 30px;
+    border-radius: 8px;
+    color: azure;
+    margin-top: 30px;
+}
+
+.today{
+    font-size: 35px;
+}
+
+#humble{
+    color: white;
+}
